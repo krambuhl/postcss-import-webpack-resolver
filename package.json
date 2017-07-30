@@ -14,8 +14,8 @@
     "postcss"
   ],
   "authors": [
-  	"Evan Krambuhl <thekrambuhl@gmail.com>",
-  	"Prashant Goel <@pgmanutd>"
+    "Evan Krambuhl <thekrambuhl@gmail.com>",
+    "Prashant Goel <@pgmanutd>"
   ],
   "license": "MIT",
   "bugs": {
