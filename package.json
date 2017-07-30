@@ -1,0 +1,28 @@
+{
+  "name": "postcss-import-webpack-resolver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krambuhl/postcss-import-webpack-resolver.git"
+  },
+  "keywords": [
+    "webpack",
+    "postcss-import",
+    "resolver",
+    "postcss"
+  ],
+  "authors": [
+  	"Evan Krambuhl <thekrambuhl@gmail.com>",
+  	"Prashant Goel <@pgmanutd>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krambuhl/postcss-import-webpack-resolver/issues"
+  },
+  "homepage": "https://github.com/krambuhl/postcss-import-webpack-resolver#readme",
+  "dependencies": {
+    "enhanced-resolve": "^3.4.1"
+  }
+}
