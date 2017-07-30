@@ -22,7 +22,7 @@ const postcssPlugins = [
       // use aliases defined in config
       alias: webpackConfig.resolve.alias,
 
-      // use aliases defined in config
+      // include where to look for modules
       modules: ['src', 'node_modules']
     })
   })
@@ -31,7 +31,7 @@ const postcssPlugins = [
 
 ## createResolver(opts)
 
-returns a `postcss-import` resolve function, takes the same options as [enhanced-resolve](https://www.npmjs.com/package/enhanced-resolve).
+returns a `postcss-import` resolve function, takes the same options as [enhanced-resolve](https://www.npmjs.com/package/enhanced-resolve).  Please refer there for proper API documentation.
 
 
 ## License
