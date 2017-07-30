@@ -1,7 +1,7 @@
 {
   "name": "postcss-import-webpack-resolver",
   "version": "1.0.0",
-  "description": "",
+  "description": "creates a resolve function for postcss-import with webpack",
   "main": "index.js",
   "repository": {
     "type": "git",
